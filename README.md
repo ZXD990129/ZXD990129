@@ -8,9 +8,12 @@
 
 ## Mood:Bad
 **这是一段粗体**
+
 ***这是一段粗斜体***
-*OMG! Who can teach me how to 分段*
-Below I'll show you how to write code block on GitHub.
+
+*OMG! Who can teach me how to use GitHub command*
+
+Below I'll show you my process on learning GitHub command.
 
 ```
 git status
